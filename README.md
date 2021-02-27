@@ -1,7 +1,9 @@
 ### Hi there 👋
+# **MURALIDHARAN N**
 
-**MyStic2110/MyStic2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**I am Murali Dharan. My main interest lies in Data analytics. I also have basic knowledge of Tableau and SQL.
+[LinkedIn Website](https://www.linkedin.com/in/murali-dharan-a91a6a127/)
+
+**My main interest lies in Data analytics. I also have basic knowledge of Tableau and SQL.
 I am always curious to learn something new**
 
 Here are some ideas to get you started:
