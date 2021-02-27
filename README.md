@@ -7,11 +7,11 @@
 I am always curious to learn something new**
 
 
-- 🔭 I’m currently working on NLP - **Text analytics using web scrapping tools
-- 🌱 I’m currently Pursuing Post graduate degree in **Machine Learning and Business Analytics 
-- 👯 I’m looking to collaborate on **Open Source ML and Data Analytics Project
+- 🔭 I’m currently working on NLP - **Text analytics using web scrapping tools**
+- 🌱 I’m currently Pursuing Post graduate degree in **Machine Learning and Business Analytics** 
+- 👯 I’m looking to collaborate on **Open Source ML and Data Analytics Project**
 - 🤔 I’m looking for help with Model Deployment using Heruko 
-- 💬 Ask me about **Machine Learning, NLP, Text Analytics
-- 📫 How to reach me: **muralicruze121@gmail.com
+- 💬 Ask me about **Machine Learning, NLP, Text Analytics**
+- 📫 How to reach me: **muralicruze121@gmail.com**
 
 
